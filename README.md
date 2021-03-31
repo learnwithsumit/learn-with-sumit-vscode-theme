@@ -15,10 +15,17 @@ If you are a big fan of **Learn with Sumit** and you use Visual Studio Code as y
 
 - [Brought to you by](#brought-to-you-by)
 - [Table of contents](#table-of-contents)
+- [Theme Screenshots](#theme-screenshots)
 - [Getting started](#getting-started)
   - [Installation](#installation)
 - [Activate theme](#activate-theme)
 - [Recommended settings for a better experience](#recommended-settings-for-a-better-experience)
+
+## Theme Screenshots
+
+<p align="center"><img width="800px" src="images/1.png"></p>
+<p align="center"><img width="800px" src="images/2.png"></p>
+<p align="center"><img width="800px" src="images/3.png"></p>
 
 ## Getting started
 
