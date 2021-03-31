@@ -23,9 +23,9 @@ If you are a big fan of **Learn with Sumit** and you use Visual Studio Code as y
 
 ## Theme Screenshots
 
-<p align="center"><img width="800px" src="images/1.png"></p>
-<p align="center"><img width="800px" src="images/2.png"></p>
-<p align="center"><img width="800px" src="images/3.png"></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/Bqp3Jdg/1.png"></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/NFcvS07/2.png"></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/JRwJGrx/3.png"></p>
 
 ## Getting started
 
