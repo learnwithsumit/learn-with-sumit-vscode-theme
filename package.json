@@ -1,0 +1,34 @@
+{
+  "name": "learn-with-sumit-theme",
+  "displayName": "Learn with Sumit Theme",
+  "description": "Official VS Code theme of Learn with Sumit!",
+  "icon": "images/logo.png",
+  "version": "1.0.1",
+  "publisher": "SumitSaha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnwithsumit/learn-with-sumit-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "learn with sumit",
+    "learnwithsumit",
+    "sumit saha"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Learn with Sumit Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Learn with Sumit Theme-color-theme.json"
+      }
+    ]
+  }
+}
