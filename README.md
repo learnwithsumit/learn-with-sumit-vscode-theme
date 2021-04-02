@@ -62,9 +62,7 @@ Type `theme`, choose `Preferences: Color Theme`, and select Learn with Sumit The
 ```js
 {
     // Controls the font family.
-    "editor.fontFamily": "Operator Mono",
-    // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
-    "editor.lineHeight": 24,
+    "editor.fontFamily": "Operator Mono, Fira Code",
     // Enables font ligatures
     "editor.fontLigatures": true,
 }
