@@ -68,6 +68,34 @@ Type `theme`, choose `Preferences: Color Theme`, and select Learn with Sumit The
 }
 ```
 
+In case you don't see the terminal does not look as expected, you can make the below customization in your VS Code settings.json file
+
+```js
+{
+  // controls the color of the terminal
+  "workbench.colorCustomizations": {
+    "terminal.ansiBlack": "#171c2a",
+    "terminal.ansiRed": "#E35535",
+    "terminal.ansiGreen": "#52AB62",
+    "terminal.ansiYellow": "#ffd866",
+    "terminal.ansiBlue": "#00B3BD",
+    "terminal.ansiMagenta": "#e991e3",
+    "terminal.ansiCyan": "#78e8c6",
+    "terminal.ansiWhite": "#FFFFFFcc",
+    "terminal.ansiBrightBlack": "#00B3BD",
+    "terminal.ansiBrightRed": "#E35535",
+    "terminal.ansiBrightGreen": "#52AB62",
+    "terminal.ansiBrightYellow": "#ffd866",
+    "terminal.ansiBrightBlue": "#00B3BD",
+    "terminal.ansiBrightMagenta": "#e991e3",
+    "terminal.ansiBrightCyan": "#78e8c6",
+    "terminal.ansiBrightWhite": "#00B3BD",
+    "terminal.background": "#171c2a",
+    "terminalCursor.background": "#ffd866",
+    "terminalCursor.foreground": "#ffd866"
+  }
+```
+
 ---
 
 <p align="center">Copyright &copy; 2021 Sumit Saha</p>
