@@ -28,6 +28,11 @@
         "label": "Learn with Sumit Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Learn with Sumit Theme-color-theme.json"
+      },
+      {
+        "label": "Learn with Sumit - Peace of the eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Learn with Sumit Theme-peace-of-eye-theme.json"
       }
     ]
   }
