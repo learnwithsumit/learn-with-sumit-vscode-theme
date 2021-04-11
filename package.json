@@ -10,7 +10,7 @@
     "url": "https://github.com/learnwithsumit/learn-with-sumit-vscode-theme"
   },
   "engines": {
-    "vscode": "^1.54.0"
+    "vscode": "^1.16.0"
   },
   "categories": [
     "Themes"
@@ -33,6 +33,11 @@
         "label": "Learn with Sumit - Peace of the eye",
         "uiTheme": "vs-dark",
         "path": "./themes/Learn with Sumit Theme-peace-of-eye-theme.json"
+      },
+      {
+        "label": "Learn with Sumit - Simple as light",
+        "uiTheme": "vs",
+        "path": "./themes/Learn with Sumit Theme-simple-as-light-theme.json"
       }
     ]
   }
