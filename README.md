@@ -17,6 +17,7 @@ If you are a big fan of **Learn with Sumit** and you use Visual Studio Code as y
 - [Table of contents](#table-of-contents)
 - [Theme Screenshots](#theme-screenshots)
 - [Getting started](#getting-started)
+  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Activate theme](#activate-theme)
 - [Recommended settings for a better experience](#recommended-settings-for-a-better-experience)
@@ -35,9 +36,17 @@ If you are a big fan of **Learn with Sumit** and you use Visual Studio Code as y
 <p align="center"><img width="800px" src="https://i.ibb.co/cF3FyVL/peace-2.png"></p>
 <p align="center"><img width="800px" src="https://i.ibb.co/Hrv0kkh/peace-3.png"></p>
 
+### Learn with Sumit - Simple as Light Theme
+
+<p align="center"><img width="800px" src="https://i.ibb.co/hg8sGP0/screenzy-1618141621436.png"></p>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme).
+
+### Prerequisites
+
+This theme is compatible for VS Code version 1.16.0+
 
 ### Installation
 
