@@ -59,7 +59,7 @@ Launch _Quick Open_:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install learn-with-sumit-theme theme
+ext install learn-with-sumit-theme
 ```
 
 And pick the one by **Sumit Saha** as author.
