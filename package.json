@@ -18,6 +18,7 @@
   "keywords": [
     "theme",
     "dark theme",
+    "light theme",
     "learn with sumit",
     "learnwithsumit",
     "sumit saha"
@@ -38,6 +39,16 @@
         "label": "Learn with Sumit - Simple as light",
         "uiTheme": "vs",
         "path": "./themes/Learn with Sumit Theme-simple-as-light-theme.json"
+      },
+      {
+        "label": "Learn with Sumit Theme - Dracula version",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Learn with Sumit Theme-dracula-theme.json"
+      },
+      {
+        "label": "Learn with Sumit - Peace of the eye - Dracula version",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Learn with Sumit Theme-peace-of-eye-dracula-theme.json"
       }
     ]
   }

@@ -40,6 +40,16 @@ If you are a big fan of **Learn with Sumit** and you use Visual Studio Code as y
 
 <p align="center"><img width="800px" src="https://i.ibb.co/hg8sGP0/screenzy-1618141621436.png"></p>
 
+### Learn with Sumit Theme - Dracula version
+
+<p align="center"><img width="800px" src="https://i.ibb.co/dmtpMKN/2-1.png"></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/Vm2SnTK/2-2.png"></p>
+
+### Learn with Sumit - Peace of the eye - Dracula version
+
+<p align="center"><img width="800px" src="https://i.ibb.co/wBB5MLq/1-1.png"></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/MRgNn1D/1-2.png"></p>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme).
