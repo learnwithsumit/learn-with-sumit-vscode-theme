@@ -2,7 +2,7 @@
   "name": "Learn with Sumit Theme",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#11141f",
+    "activityBar.background": "#171c2a",
     "activityBar.border": "#0e0e12",
     "activityBar.foreground": "#989eb3",
     "activityBar.inactiveForeground": "#868d9cAA",
