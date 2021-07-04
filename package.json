@@ -49,6 +49,11 @@
         "label": "Learn with Sumit - Peace of the eye - Dracula version",
         "uiTheme": "vs-dark",
         "path": "./themes/Learn with Sumit Theme-peace-of-eye-dracula-theme.json"
+      },
+      {
+        "label": "Learn with Sumit - Shades of Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Learn with Sumit Theme-shades-of-grey-theme.json"
       }
     ]
   }
