@@ -54,6 +54,11 @@
         "label": "Learn with Sumit - Shades of Grey",
         "uiTheme": "vs-dark",
         "path": "./themes/Learn with Sumit Theme-shades-of-grey-theme.json"
+      },
+      {
+        "label": "Learn with Sumit - Blue Velvet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Learn with Sumit Theme-blue-velvet-theme.json"
       }
     ]
   }
