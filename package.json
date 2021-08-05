@@ -3,7 +3,7 @@
   "displayName": "Learn with Sumit Theme",
   "description": "Official VS Code theme of Learn with Sumit!",
   "icon": "images/logo.png",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "publisher": "SumitSaha",
   "repository": {
     "type": "git",
