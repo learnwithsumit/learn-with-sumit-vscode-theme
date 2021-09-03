@@ -109,6 +109,12 @@
     "editor.wordHighlightBackground": "#989eb320",
     "editorBracketMatch.background": "#989eb320",
     "editorBracketMatch.border": "#989eb340",
+    "editorBracketHighlight.foreground1": "#87cefa",
+    "editorBracketHighlight.foreground2": "#DA70D6",
+    "editorBracketHighlight.foreground3": "#87cefa",
+    "editorBracketHighlight.foreground4": "#DA70D6",
+    "editorBracketHighlight.foreground5": "#87cefa",
+    "editorBracketHighlight.foreground6": "#DA70D6",
     "editorCodeLens.foreground": "#FFFFFFcc",
     "editorCursor.foreground": "#ffd866",
     "editorGroup.border": "#0e0e1281",
@@ -505,7 +511,7 @@
       "scope": ["entity.name.type.class", "entity.name.class"],
       "settings": {
         "foreground": "#8BE9FD",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -1010,7 +1016,7 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#F8F8F2"
       }
     },
@@ -1067,7 +1073,7 @@
       "name": "Powershell constants mistakenly scoped to `support`, rather than `constant` (edge)",
       "scope": ["support.constant"],
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#BD93F9"
       }
     },
