@@ -266,8 +266,7 @@
         "entity.name.record.field.accessor"
       ],
       "settings": {
-        "foreground": "#fc9867",
-        "fontStyle": "italic"
+        "foreground": "#fc9867"
       }
     },
     {
@@ -456,8 +455,7 @@
         "variable.parameter.function.language.special.self"
       ],
       "settings": {
-        "foreground": "#fc9867",
-        "fontStyle": "italic"
+        "foreground": "#fc9867"
       }
     },
     {
@@ -477,8 +475,7 @@
         "storage.type.type"
       ],
       "settings": {
-        "foreground": "#78e8c6",
-        "fontStyle": "italic"
+        "foreground": "#78e8c6"
       }
     },
     {
@@ -596,8 +593,7 @@
         "meta.embedded.block.blade storage.type.php"
       ],
       "settings": {
-        "foreground": "#ffd866",
-        "fontStyle": "italic"
+        "foreground": "#ffd866"
       }
     },
     {
@@ -665,15 +661,13 @@
     {
       "scope": ["markup.quote"],
       "settings": {
-        "foreground": "#78dce8",
-        "fontStyle": "italic"
+        "foreground": "#78dce8"
       }
     },
     {
       "scope": ["punctuation.definition.quote.begin"],
       "settings": {
-        "foreground": "#78dce8",
-        "fontStyle": "italic"
+        "foreground": "#78dce8"
       }
     },
     {
@@ -694,8 +688,7 @@
         "entity.other.attribute-name.class punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#78e8c6",
-        "fontStyle": "italic"
+        "foreground": "#78e8c6"
       }
     },
     {
@@ -703,8 +696,7 @@
         "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#78e8c6",
-        "fontStyle": "italic"
+        "foreground": "#78e8c6"
       }
     },
     {
@@ -737,8 +729,7 @@
     {
       "scope": ["keyword.other.unit"],
       "settings": {
-        "foreground": "#fc9867",
-        "fontStyle": "italic"
+        "foreground": "#fc9867"
       }
     },
     {
