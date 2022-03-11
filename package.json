@@ -64,11 +64,6 @@
                 "label": "Learn with Sumit - Blue Velvet",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Learn with Sumit Theme-blue-velvet-theme.json"
-            },
-            {
-                "label": "Learn with Sumit - Traditional",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Learn with Sumit Theme-traditional-theme.json"
             }
         ]
     }
