@@ -10,7 +10,7 @@
         "url": "https://github.com/learnwithsumit/learn-with-sumit-vscode-theme"
     },
     "engines": {
-        "vscode": "*"
+        "vscode": "^1.16.0"
     },
     "categories": [
         "Themes"
