@@ -69,6 +69,11 @@
                 "label": "Learn with Sumit - Traditional",
                 "uiTheme": "vs-dark",
                 "path": "./themes/traditional-theme.json"
+            },
+            {
+                "label": "Learn with Sumit - Professional",
+                "uiTheme": "vs-dark",
+                "path": "./themes/professional-theme.json"
             }
         ]
     }
