@@ -283,8 +283,7 @@
                 "comment.block.documentation source"
             ],
             "settings": {
-                "foreground": "#868d9caa",
-                "fontStyle": "italic"
+                "foreground": "#868d9caa"
             }
         },
         {
