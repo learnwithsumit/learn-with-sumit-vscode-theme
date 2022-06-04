@@ -302,12 +302,6 @@
     },
     "tokenColors": [
         {
-            "scope": ["emphasis"],
-            "settings": {
-                "fontStyle": "italic"
-            }
-        },
-        {
             "scope": ["strong"],
             "settings": {
                 "fontStyle": "bold"
@@ -525,15 +519,13 @@
                 "variable.parameter.function.language.special"
             ],
             "settings": {
-                "foreground": "#BD93F9",
-                "fontStyle": "italic"
+                "foreground": "#BD93F9"
             }
         },
         {
             "name": "Inherited classes",
             "scope": ["entity.other.inherited-class"],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#8BE9FD"
             }
         },
@@ -564,8 +556,7 @@
             "name": "JSDoc-style types",
             "scope": ["comment.block.documentation entity.name.type"],
             "settings": {
-                "foreground": "#8BE9FD",
-                "fontStyle": "italic"
+                "foreground": "#8BE9FD"
             }
         },
         {
@@ -581,8 +572,7 @@
             "name": "JSDoc-style comment parameters",
             "scope": ["comment.block.documentation variable"],
             "settings": {
-                "foreground": "#FFB86C",
-                "fontStyle": "italic"
+                "foreground": "#FFB86C"
             }
         },
         {
@@ -621,8 +611,7 @@
             "name": "HTML/CSS attribute names",
             "scope": ["entity.other.attribute-name"],
             "settings": {
-                "foreground": "#50FA7B",
-                "fontStyle": "italic"
+                "foreground": "#50FA7B"
             }
         },
         {
@@ -653,7 +642,6 @@
                 "variable.parameter"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#FFB86C"
             }
         },
@@ -664,8 +652,7 @@
                 "meta.decorator variable.other.property"
             ],
             "settings": {
-                "foreground": "#50FA7B",
-                "fontStyle": "italic"
+                "foreground": "#50FA7B"
             }
         },
         {
@@ -700,7 +687,6 @@
             "name": "Language Built-ins",
             "scope": ["support"],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#8BE9FD"
             }
         },
@@ -858,7 +844,6 @@
                 "storage.type.ocaml"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#8BE9FD"
             }
         },
@@ -1000,7 +985,6 @@
                 "meta.variable.assignment.destructured.object.coffee variable"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#FFB86C"
             }
         },
