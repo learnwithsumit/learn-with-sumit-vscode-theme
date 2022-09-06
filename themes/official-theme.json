@@ -306,17 +306,17 @@
                 "meta.diff.header.from-file",
                 "meta.diff.header.to-file"
             ],
-            "settings": { "foreground": "#9cd9ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9cd9ff", "fontStyle": "normal" }
         },
         {
             "name": "Deleted",
             "scope": "markup.deleted.diff",
-            "settings": { "foreground": "#f05050", "fontStyle": "italic" }
+            "settings": { "foreground": "#f05050", "fontStyle": "normal" }
         },
         {
             "name": "Inserted",
             "scope": "markup.inserted.diff",
-            "settings": { "foreground": "#a1d884", "fontStyle": "italic" }
+            "settings": { "foreground": "#a1d884", "fontStyle": "normal" }
         },
         {
             "name": "Language Variable",
@@ -336,12 +336,12 @@
         {
             "name": "Tag attribute",
             "scope": ["entity.other.attribute-name", "entity.name.type.svelte"],
-            "settings": { "foreground": "#9696ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9696ff", "fontStyle": "normal" }
         },
         {
             "name": "Pug Classes",
             "scope": "entity.other.attribute-name.class.pug",
-            "settings": { "foreground": "#ffdc96", "fontStyle": "italic" }
+            "settings": { "foreground": "#ffdc96", "fontStyle": "normal" }
         },
         {
             "name": "Support Variable Property",
@@ -373,7 +373,7 @@
         {
             "name": "Italics",
             "scope": "italic",
-            "settings": { "foreground": "", "fontStyle": "italic" }
+            "settings": { "foreground": "", "fontStyle": "normal" }
         },
         {
             "name": "Bold",
@@ -383,7 +383,7 @@
         {
             "name": "Quote",
             "scope": "quote",
-            "settings": { "foreground": "#aae682", "fontStyle": "italic" }
+            "settings": { "foreground": "#aae682", "fontStyle": "normal" }
         },
         {
             "name": "Invalid",
@@ -398,12 +398,12 @@
         {
             "name": "Library (function & constant)",
             "scope": ["support.function", "support.constant"],
-            "settings": { "foreground": "#9696ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9696ff", "fontStyle": "normal" }
         },
         {
             "name": "Variable Property Other object property",
             "scope": ["variable.other.object.property"],
-            "settings": { "foreground": "#bdd2e7", "fontStyle": "italic" }
+            "settings": { "foreground": "#bdd2e7", "fontStyle": "normal" }
         },
         {
             "name": "Variable Instances",
@@ -439,7 +439,7 @@
                 "meta.method.declaration",
                 "meta.method.declaration storage.type.js"
             ],
-            "settings": { "foreground": "#00b1ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#00b1ff", "fontStyle": "normal" }
         },
         {
             "name": "interface",
@@ -455,7 +455,7 @@
                 "storage.type.property.ts",
                 "storage.type.property.tsx"
             ],
-            "settings": { "foreground": "#00b1ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#00b1ff", "fontStyle": "normal" }
         },
         {
             "name": "Entity Name Tag Custom",
@@ -465,17 +465,17 @@
         {
             "name": "Meta Delimiter Period",
             "scope": "meta.delimiter.period",
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Meta Selector",
             "scope": "meta.selector",
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Doctypes",
             "scope": ["entity.name.tag.doctype", "meta.tag.sgml.doctype"],
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Keyword Control Conditional",
@@ -510,7 +510,7 @@
         {
             "name": "function call",
             "scope": "meta.function-call",
-            "settings": { "fontStyle": "italic" }
+            "settings": { "fontStyle": "normal" }
         },
         {
             "name": "Meta Property Name",
@@ -714,7 +714,7 @@
         {
             "name": "Keyword Operator Relational",
             "scope": "keyword.operator.relational",
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Comment",
@@ -732,7 +732,7 @@
                 "punctuation.whitespace.comment",
                 "string.comment.buffered.block.pug"
             ],
-            "settings": { "foreground": "#647882" }
+            "settings": { "foreground": "#647882", "fontStyle": "italic" }
         },
         {
             "name": "Data Type in commented documentation",
@@ -876,7 +876,7 @@
                 "keyword.other.important.css",
                 "keyword.other.important.scss"
             ],
-            "settings": { "foreground": "#ff7878", "fontStyle": "italic" }
+            "settings": { "foreground": "#ff7878", "fontStyle": "normal" }
         },
         {
             "name": "keyframes rules",
@@ -884,7 +884,7 @@
                 "meta.at-rule.keyframes.body.css",
                 "source.css.scss meta.at-rule.keyframes.scss entity.other.attribute-name.scss"
             ],
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Keyword",
@@ -901,7 +901,7 @@
                 "keyword.control.at-rule",
                 "keyword.control.at-rule.css.sass"
             ],
-            "settings": { "foreground": "#9696ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9696ff", "fontStyle": "normal" }
         },
         {
             "name": "colon (:) in stylesheets",
@@ -975,7 +975,7 @@
                 "support.variable.property.js",
                 "support.variable.property.ts"
             ],
-            "settings": { "foreground": "#9696ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9696ff", "fontStyle": "normal" }
         },
         {
             "name": "Storage type",
@@ -1011,7 +1011,7 @@
         {
             "name": "javascript function execution",
             "scope": ["meta.function-call.js entity.name.function.js"],
-            "settings": { "fontStyle": "italic" }
+            "settings": { "fontStyle": "normal" }
         },
         {
             "name": "TypeScript Punctuation Decorators",
@@ -1129,7 +1129,7 @@
                 "keyword.control.from.ts",
                 "keyword.control.from.tsx"
             ],
-            "settings": { "foreground": "#9696ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9696ff", "fontStyle": "normal" }
         },
         {
             "name": "HTML Tag names",
@@ -1205,7 +1205,7 @@
                 "variable.parameter.function.python",
                 "meta.function-call.arguments.python"
             ],
-            "settings": { "foreground": "#9696ff", "fontStyle": "italic" }
+            "settings": { "foreground": "#9696ff", "fontStyle": "normal" }
         },
         {
             "name": "Python Function Call",
@@ -1213,7 +1213,7 @@
                 "meta.function-call.python",
                 "meta.function-call.generic.python"
             ],
-            "settings": { "foreground": "#00dcdc", "fontStyle": "italic" }
+            "settings": { "foreground": "#00dcdc", "fontStyle": "normal" }
         },
         {
             "name": "Punctuations in Python",
@@ -1300,7 +1300,7 @@
         {
             "name": "Elixir Binary Punctuations",
             "scope": "source.elixir .punctuation.binary.elixir",
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Markdown Headings",
@@ -1310,7 +1310,7 @@
         {
             "name": "Markdown Italics",
             "scope": "markup.italic.markdown",
-            "settings": { "foreground": "#ffb482", "fontStyle": "italic" }
+            "settings": { "foreground": "#ffb482", "fontStyle": "normal" }
         },
         {
             "name": "Markdown Bold",
@@ -1320,7 +1320,7 @@
         {
             "name": "Markdown Quote + others",
             "scope": "markup.quote.markdown",
-            "settings": { "foreground": "#aae682", "fontStyle": "italic" }
+            "settings": { "foreground": "#aae682", "fontStyle": "normal" }
         },
         {
             "name": "Markdown Links",
@@ -1368,7 +1368,7 @@
                 "source.go keyword.channel.go",
                 "source.go keyword.control.go"
             ],
-            "settings": { "foreground": "#dc8cff", "fontStyle": "italic" }
+            "settings": { "foreground": "#dc8cff", "fontStyle": "normal" }
         },
         {
             "name": "Go Constants e.g. nil, string format (%s, %d, etc.)",
@@ -1447,7 +1447,7 @@
         {
             "name": "Punctuations in PHP function calls",
             "scope": "meta.function-call.php punctuation",
-            "settings": { "foreground": "#bdd2e7", "fontStyle": "italic" }
+            "settings": { "foreground": "#bdd2e7", "fontStyle": "normal" }
         },
         {
             "name": "blade keyword",
