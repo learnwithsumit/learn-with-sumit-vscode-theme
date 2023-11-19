@@ -79,6 +79,11 @@
                 "label": "Learn with Sumit - Professional",
                 "uiTheme": "vs-dark",
                 "path": "./themes/professional-theme.json"
+            },
+            {
+                "label": "Learn with Sumit - Party",
+                "uiTheme": "vs-dark",
+                "path": "./themes/party-theme.json"
             }
         ]
     }
