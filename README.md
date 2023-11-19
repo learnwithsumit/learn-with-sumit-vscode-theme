@@ -70,6 +70,10 @@ If you are a big fan of **Learn with Sumit** and you use Visual Studio Code as y
 
 <p align="center"><img width="800px" src="https://i.ibb.co/LvThdY8/professional.png"></p>
 
+### Learn with Sumit - Party version
+
+<p align="center"><img width="800px" src="https://i.ibb.co/Ns24KMJ/screenzy-1700388472355.png"></p>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme).
