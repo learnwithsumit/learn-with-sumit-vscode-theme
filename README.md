@@ -5,7 +5,7 @@
 ## Brought to you by
 
 <p><a title="Try Learn with Sumit" href="https://learnwithsumit.com">Learn with Sumit</a></br>
-Official VS Code theme of Learn with Sumit! "Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer.<br> <a title="Try Learn with Sumit" href="https://learnwithsumit.com">Learn More</a></p>
+Official VS Code theme of Learn with Sumit developed by <a title="Visit Sumit Saha's Website" href="https://www.sumitsaha.me">Sumit Saha</a>, a Tech Entrepreneur, Software Engineer, Educator, freeCodeCamp Contributor, WordCamp Speaker & Programming Enthusiast with a strong background in Software and Web Development, Digital Marketing, Mentoring and Community Building.! <br> <a title="Visit Sumit Saha's Website" href="https://www.sumitsaha.me">Learn More</a></p>
 
 ---
 

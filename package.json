@@ -1,7 +1,7 @@
 {
     "name": "learn-with-sumit-theme",
     "displayName": "Learn with Sumit Theme",
-    "description": "Official VS Code theme of Learn with Sumit!",
+    "description": "Official VS Code theme of Learn with Sumit developed by Sumit Saha!",
     "icon": "images/logo.png",
     "version": "11.0.0",
     "publisher": "SumitSaha",
@@ -84,6 +84,11 @@
                 "label": "Learn with Sumit - Party",
                 "uiTheme": "vs-dark",
                 "path": "./themes/party-theme.json"
+            },
+            {
+                "label": "Learn with Sumit - Dark Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-night-theme.json"
             }
         ]
     }
